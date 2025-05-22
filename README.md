@@ -88,7 +88,7 @@ endmodule
 **RTL realization Output:** 
 ![312876613-e923c537-c222-40e2-b921-02389639b7a8](https://github.com/user-attachments/assets/50751a35-f2de-45a0-bbce-32dbed80ac12)
 
-**wavwform:**
+**waveform:**
 
 **![312877330-24c1cf22-cf1a-4f44-87b7-040d69a31440](https://github.com/user-attachments/assets/e2205692-ffa3-4034-bb2c-8ea6b8e106fc)
 **Result:**
